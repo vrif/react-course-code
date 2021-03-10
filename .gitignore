@@ -24,3 +24,6 @@ yarn-error.log*
 
 #firebase auth config
 /src/firebase/firebase.config.js
+
+#stripe key
+/src/components/stripe-button/stripe-button.key.js
